@@ -66,7 +66,7 @@ If you are interested in my research, feel free to reach out!
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.10* NJUPT Person of the Year award. 
 - *2024.05* Jiangsu Provincial Merit Student award. 
 - *2021.05* Jiangsu Puxin Elite Scholarship. 
