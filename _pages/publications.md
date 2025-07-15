@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 
 - `AAAI 2025 (ORAL)` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/PGL)
