@@ -22,7 +22,7 @@ To date, I have been honored with the Jiangsu Provincial Merit Student award, Ch
 
 My research focuses on social computing, including social media analysis and recommender systems. I have published 4 papers at ACM MM, AAAI, and TKDD. Additionally, I serve as a reviewer for ACM MM, TMM, PR, CIKM and other conferences/journals.
 
-If you are interested in my research, feel free to reach out!
+If you are interested in my research, please feel free to connect with me!
 
 &nbsp;
 
