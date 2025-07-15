@@ -3,7 +3,6 @@ permalink: /publications/
 title: ""
 excerpt: ""
 author_profile: true
-layout: default
 redirect_from: 
   - /publications.html
 ---
