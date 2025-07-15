@@ -24,11 +24,15 @@ My research focuses on social computing, including social media analysis and rec
 
 If you are interested in my research, feel free to reach out!
 
+&nbsp;
+
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is nominated as an AAAI Oral paper. 
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by TKDD.
 - *2023.07*: &nbsp;🎉🎉 One papers is accepted by ACM MM 2024. 
+
+&nbsp;
 
 # 📝 Selected Publications ([full publications](/publications/)) 
 
@@ -54,16 +58,22 @@ If you are interested in my research, feel free to reach out!
 </div>
 </div>
 
+&nbsp;
+
 # 🎖 Honors and Awards
 - *2024.10* NJUPT Person of the Year award. 
 - *2024.05* Jiangsu Provincial Merit Student award. 
 - *2021.05* Jiangsu Puxin Elite Scholarship. 
 - *2020.10* China Telecom Scholarship.
 
+&nbsp;
+
 # 📖 Educations
 - *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学). 
+
+&nbsp;
 
 # 💻 Internships
 - *2025.04 - 2025.10*, [360 AI Research Institute](https://ailab.360.cn/about.html), Beijing.
