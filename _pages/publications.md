@@ -16,13 +16,13 @@ redirect_from:
 
 # 📝 Publications
 
-- ``AAAI 2025 (ORAL)`` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/PGL)
+- `AAAI 2025 (ORAL)` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/PGL)
 
-- ``AAAI 2025`` [BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), Fanqi Le\*, **Penghang Yu\***, Zhiyi Tan, Bing-Kun Bao, Guanming Lu. (\* Equal Contributions) [**Project**](https://github.com/fqldom/BeFA)
+- `AAAI 2025` [BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), Fanqi Le*, **Penghang Yu***, Zhiyi Tan, Bing-Kun Bao, Guanming Lu. (* Equal Contributions) [**Project**](https://github.com/fqldom/BeFA)
 
-- ``TKDD 2024`` [Improving graph collaborative filtering with directional behavior enhanced contrastive learning](https://dl.acm.org/doi/10.1145/3663574), **Penghang Yu**, Bing-Kun Bao, Zhiyi Tan, Guanming Lu.
+- `TKDD 2024` [Improving graph collaborative filtering with directional behavior enhanced contrastive learning](https://dl.acm.org/doi/10.1145/3663574), **Penghang Yu**, Bing-Kun Bao, Zhiyi Tan, Guanming Lu.
 
-- ``ACM MM 2023`` [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3613915), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/MGCN)
+- `ACM MM 2023` [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3613915), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/MGCN)
 
 
 ## ✍ Working Papers
