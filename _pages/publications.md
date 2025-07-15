@@ -4,6 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
+  - /publications/
   - /publications.html
 ---
 
@@ -18,7 +19,7 @@ redirect_from:
 
 - `AAAI 2025 (ORAL)` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. [**Project**](https://github.com/demonph10/PGL)
 
-- `AAAI 2025` [BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), Fanqi Le*, **Penghang Yu***, Zhiyi Tan, Bing-Kun Bao, Guanming Lu. (* Equal Contributions) [**Project**](https://github.com/fqldom/BeFA)
+- `AAAI 2025` [BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), Qile Fan*, **Penghang Yu***, Zhiyi Tan, Bing-Kun Bao, Guanming Lu. (* Equal Contributions) [**Project**](https://github.com/fqldom/BeFA)
 
 - `TKDD 2024` [Improving graph collaborative filtering with directional behavior enhanced contrastive learning](https://dl.acm.org/doi/10.1145/3663574), **Penghang Yu**, Bing-Kun Bao, Zhiyi Tan, Guanming Lu.
 
