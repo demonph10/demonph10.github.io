@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a third-year direct-entry Ph.D. student in the School of Communication and Information Engineering at Nanjing University of Posts and Telecommunications (NJUPT, 南京邮电大学). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao) (鲍秉坤), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE) （卢官明）, [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) （谭智一） from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) (钱胜胜) from the Institute of Automation, Chinese Academy of Sciences （中科院自动化所）. Currently, I am interning at 360 AI Research Institute.
+I am a third-year direct-entry Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT, 南京邮电大学). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao) (鲍秉坤), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE) （卢官明）, [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) （谭智一） from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) (钱胜胜) from the Institute of Automation, Chinese Academy of Sciences （中科院自动化所）. Currently, I am interning at 360 AI Research Institute.
 
 To date, I have been honored with the Jiangsu Provincial Merit Student award, China Telecom Scholarship, Jiangsu Puxin Elite Scholarship, and NJUPT Person of the Year award.
 
@@ -61,7 +61,7 @@ If you are interested in my research, feel free to reach out!
 - *2020.10* China Telecom Scholarship.
 
 # 📖 Educations
-- *2018.09 - 2022.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
+- *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学). 
 

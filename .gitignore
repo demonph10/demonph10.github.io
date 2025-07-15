@@ -1,3 +1,5 @@
 _site/
 push.sh
 .DS_Store
+CURSOR_MEMORY.md
+.cursorrules
