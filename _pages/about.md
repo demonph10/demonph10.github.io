@@ -30,7 +30,7 @@ If you are interested in my research, feel free to reach out!
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by TKDD.
 - *2023.07*: &nbsp;🎉🎉 One papers is accepted by ACM MM 2024. 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications ([full publications](/publications/)) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='images/pgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
