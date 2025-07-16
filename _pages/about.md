@@ -32,7 +32,7 @@ If you are interested in my research, please feel free to connect with me!
 - *2025.01*: &nbsp;🎉🎉 One paper is nominated as an AAAI Oral paper. 
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by TKDD.
-- *2023.07*: &nbsp;🎉🎉 One papers is accepted by ACM MM 2024. 
+- *2023.07*: &nbsp;🎉🎉 One papers is accepted by ACM MM 2023. 
 
 &nbsp;
 
