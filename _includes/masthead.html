@@ -20,9 +20,9 @@
             <li class="masthead__menu-item">
               <a href="{{ lang_prefix }}{{ link.url }}">
                 {% if current_lang == "zh" %}
-                  {{ site.data.ui-text.zh[link.title_key] | default: link.title }}
+                  {{ link.title }}
                 {% else %}
-                  {{ site.data.ui-text.en[link.title_key] | default: link.title }}
+                  {{ link.title_en | default: link.title }}
                 {% endif %}
               </a>
             </li>
@@ -33,11 +33,11 @@
         <div class="lang-switch">
           {% if current_lang == "zh" %}
             <a href="/en{{ page.url | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
-              {{ site.data.ui-text.zh.lang_switch.to_english | default: "English" }}
+              中/EN
             </a>
           {% else %}
             <a href="{{ page.url | replace: '/en', '' | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
-              {{ site.data.ui-text.en.lang_switch.to_chinese | default: "中文" }}
+              中/EN
             </a>
           {% endif %}
         </div>
