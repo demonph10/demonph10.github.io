@@ -40,6 +40,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    align-items: center;
   }
 }
 
@@ -62,11 +64,13 @@
   
   &--lang-switch {
     text-align: right;
+    margin-left: auto;
+    padding-left: 2em;
     
     .lang-switch-btn {
       display: inline-block;
       padding: 0.2em 0.5em;
-      margin: 0 0.5em;
+      margin: 0;
       background-color: transparent;
       border: 1px solid #ddd;
       border-radius: 3px;
