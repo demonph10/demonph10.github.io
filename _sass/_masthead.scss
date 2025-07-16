@@ -59,6 +59,31 @@
     padding-right: 2em;
     font-weight: 700;
   }
+  
+  &--lang-switch {
+    text-align: right;
+    
+    .lang-switch-btn {
+      display: inline-block;
+      padding: 0.2em 0.5em;
+      margin: 0 0.5em;
+      background-color: transparent;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      color: #666;
+      font-size: 0.8em;
+      font-weight: 400;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background-color: #f8f8f8;
+        border-color: #bbb;
+        color: #333;
+        text-decoration: none;
+      }
+    }
+  }
 }
 
 
