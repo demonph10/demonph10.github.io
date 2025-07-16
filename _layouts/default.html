@@ -3,7 +3,8 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+{% assign current_lang = page.lang | default: site.lang | default: "zh" %}
+<html lang="{{ current_lang }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}

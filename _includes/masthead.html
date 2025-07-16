@@ -4,10 +4,44 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#about-me">Homepage</a></li>
+          {% assign current_lang = page.lang | default: site.lang | default: "zh" %}
+          {% assign lang_prefix = "" %}
+          {% if current_lang == "en" %}
+            {% assign lang_prefix = "/en" %}
+          {% endif %}
+          
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ lang_prefix }}/#about-me">
+              {% if current_lang == "zh" %}
+                {{ site.data.ui-text.zh.nav.homepage }}
+              {% else %}
+                {{ site.data.ui-text.en.nav.homepage }}
+              {% endif %}
+            </a>
+          </li>
+          
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ lang_prefix }}{{ link.url }}">
+                {% if current_lang == "zh" %}
+                  {% assign keys = link.title_key | split: "." %}
+                  {{ site.data.ui-text.zh[keys[0]][keys[1]] }}
+                {% else %}
+                  {% assign keys = link.title_key | split: "." %}
+                  {{ site.data.ui-text.en[keys[0]][keys[1]] }}
+                {% endif %}
+              </a>
+            </li>
           {% endfor %}
+          
+          <!-- Language Switch as last table-cell -->
+          <li class="masthead__menu-item masthead__menu-item--lang-switch">
+            {% if current_lang == "zh" %}
+              <a href="/en{{ page.url | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch-btn">中/EN</a>
+            {% else %}
+              <a href="{{ page.url | replace: '/en', '' | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch-btn">中/EN</a>
+            {% endif %}
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

@@ -11,6 +11,11 @@ description              : "Ph.D. Student"
 repository               : "demonph10/demonph10.github.io"
 google_scholar_stats_use_cdn : true
 
+# Multi-language Settings
+lang                     : "zh"
+languages                : ["zh", "en"]
+default_language         : "zh"
+
 # google analytics
 google_analytics_id      : "G-WWW9FJ86DJ" # get google_analytics_id from https://analytics.google.com/analytics/
 

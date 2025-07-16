@@ -1,0 +1,19 @@
+zh:
+  nav:
+    about: "关于我"
+    news: "最新动态" 
+    publications: "科研成果"
+    honors: "荣誉奖项"
+    education: "教育经历"
+    internships: "实习经历"
+    homepage: "主页"
+
+en:
+  nav:
+    about: "About Me"
+    news: "News"
+    publications: "Publications"
+    honors: "Honors and Awards"
+    education: "Educations"
+    internships: "Internships"
+    homepage: "Homepage" 
