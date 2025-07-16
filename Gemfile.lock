@@ -278,5 +278,8 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
 
+RUBY VERSION
+   ruby 3.2.0p53
+
 BUNDLED WITH
    2.2.19
