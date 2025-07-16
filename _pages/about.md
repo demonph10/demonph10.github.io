@@ -39,7 +39,7 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 代表性科研成果 ([完整发表列表](/publications/)) 
+# 📝 代表性科研成果 ([完整论文列表](/publications/)) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='/images/pgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
