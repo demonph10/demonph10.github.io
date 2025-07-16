@@ -7,3 +7,7 @@ vendor/
 
 # Temporarily ignore Gemfile.lock to allow regeneration
 # Gemfile.lock
+
+# Cursor IDE specific files
+.cursorrules
+CURSOR_MEMORY.md
