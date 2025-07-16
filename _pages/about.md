@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: zh
 redirect_from: 
   - /about/
   - /about.html
@@ -16,29 +17,29 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a third-year direct Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT, 南京邮电大学). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao) (鲍秉坤), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE) (卢官明), [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) (谭智一) from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) (钱胜胜) from the Institute of Automation, Chinese Academy of Sciences (中科院自动化所). Currently, I am interning at 360 AI Research Institute.
+我是南京邮电大学（NJUPT）的三年级直博生，师从南京邮电大学[鲍秉坤](https://www.scholat.com/bkbao)教授、[卢官明](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE)教授、[谭智一](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3)老师，以及中科院自动化所的[钱胜胜](https://people.ucas.ac.cn/~shengshengqian)研究员。目前在360人工智能研究院实习。
 
-To date, I have been honored with the Jiangsu Provincial Merit Student award, China Telecom Scholarship, Jiangsu Puxin Elite Scholarship, and NJUPT Person of the Year award.
+我获得了江苏省三好学生、中国电信奖学金、江苏省浦芯精英奖学金、南京邮电大学年度人物等荣誉。
 
-My research focuses on social computing, including social media analysis and recommender systems. I have published 4 papers at ACM MM, AAAI, and TKDD. Additionally, I serve as a reviewer for ACM MM, TMM, PR, CIKM and other conferences/journals.
+我的研究方向为社会计算，包括社交媒体分析和推荐系统。现已在 ACM MM、AAAI、TKDD 等顶级会议期刊发表4篇论文，担任 ACM MM、TMM、PR、CIKM 等会议期刊的审稿人。
 
-If you are interested in my research, please feel free to connect with me!
+如果您对我的研究感兴趣，欢迎与我联系！
 
 &nbsp;
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is nominated as an AAAI Oral paper. 
-- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
-- *2024.03*: &nbsp;🎉🎉 One papers are accepted by TKDD.
-- *2023.07*: &nbsp;🎉🎉 One papers is accepted by ACM MM 2023. 
+# 🔥 最新动态
+- *2025.01*: &nbsp;🎉🎉 一篇论文入选 AAAI 2025 口头报告（Oral）。
+- *2024.12*: &nbsp;🎉🎉 两篇论文被 AAAI 2025 接收。
+- *2024.03*: &nbsp;🎉🎉 一篇论文被 TKDD 接收。
+- *2023.07*: &nbsp;🎉🎉 一篇论文被 ACM MM 2023 接收。 
 
 &nbsp;
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Selected Publications ([full publications](/publications/)) 
+# 📝 代表性科研成果 ([完整发表列表](/publications/)) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='/images/pgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +48,7 @@ If you are interested in my research, please feel free to connect with me!
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**Project**](https://github.com/demonph10/PGL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**项目**](https://github.com/demonph10/PGL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -58,7 +59,7 @@ If you are interested in my research, please feel free to connect with me!
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**Project**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **Citations: 96**
+[**项目**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **引用数: 96**
 </div>
 </div>
 
@@ -66,24 +67,24 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🏆 Honors and Awards
-- *2024.10* NJUPT Person of the Year award. 
-- *2024.05* Jiangsu Provincial Merit Student award. 
-- *2021.05* Jiangsu Puxin Elite Scholarship. 
-- *2020.10* China Telecom Scholarship.
+# 🏆 荣誉奖项
+- *2024.10* 南京邮电大学年度人物。
+- *2024.05* 江苏省三好学生。
+- *2021.05* 江苏省浦芯精英奖学金。
+- *2020.10* 中国电信奖学金。
 
 &nbsp;
 
 <span class='anchor' id='-educations'></span>
 
-# 📖 Educations
-- *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
-- *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications (南京邮电大学). 
-- *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学). 
+# 📖 教育经历
+- *2022.09 - 2027.06 (至今)*, 博士，南京邮电大学。
+- *2018.09 - 2022.06*, 本科，南京邮电大学。
+- *2015.09 - 2018.06*, 中学，华中师范大学第一附属中学。
 
 &nbsp;
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 Internships
-- *2025.04 - 2025.10*, [360 AI Research Institute](https://ailab.360.cn/about.html), Beijing.
+# 💻 实习经历
+- *2025.04 - 2025.10*, [360人工智能研究院](https://ailab.360.cn/about.html), 北京。
