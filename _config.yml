@@ -9,6 +9,8 @@
 title                    : "Penghang Yu (余鹏航)"
 description              : "Ph.D. Student"
 repository               : "demonph10/demonph10.github.io"
+url                      : "https://demonph10githubio-demonphs-projects.vercel.app"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # Multi-language Settings
