@@ -1,6 +1,6 @@
 {
   "framework": null,
-  "buildCommand": "echo 'Build is handled by GitHub Actions'",
+  "buildCommand": "bundle install && bundle exec jekyll build",
   "outputDirectory": "_site",
-  "installCommand": "echo 'Install is handled by GitHub Actions'"
+  "installCommand": "bundle install"
 } 
