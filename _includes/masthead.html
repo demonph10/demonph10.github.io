@@ -4,11 +4,44 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#about-me">Homepage</a></li>
+          {% assign current_lang = page.lang | default: site.lang | default: "zh" %}
+          {% assign lang_prefix = "" %}
+          {% if current_lang == "en" %}
+            {% assign lang_prefix = "/en" %}
+          {% endif %}
+          
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="{{ lang_prefix }}/#about-me">
+              {% if current_lang == "zh" %}主页{% else %}Homepage{% endif %}
+            </a>
+          </li>
+          
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ lang_prefix }}{{ link.url }}">
+                {% if current_lang == "zh" %}
+                  {{ site.data.ui-text.zh[link.title_key] | default: link.title }}
+                {% else %}
+                  {{ site.data.ui-text.en[link.title_key] | default: link.title }}
+                {% endif %}
+              </a>
+            </li>
           {% endfor %}
         </ul>
+        
+        <!-- Language Switch Button -->
+        <div class="lang-switch">
+          {% if current_lang == "zh" %}
+            <a href="/en{{ page.url | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
+              {{ site.data.ui-text.zh.lang_switch.to_english | default: "English" }}
+            </a>
+          {% else %}
+            <a href="{{ page.url | replace: '/en', '' | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
+              {{ site.data.ui-text.en.lang_switch.to_chinese | default: "中文" }}
+            </a>
+          {% endif %}
+        </div>
+        
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
