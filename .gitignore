@@ -1,5 +1,9 @@
+# Jekyll
 _site/
-push.sh
-.DS_Store
-CURSOR_MEMORY.md
-.cursorrules
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Temporarily ignore Gemfile.lock to allow regeneration
+# Gemfile.lock
