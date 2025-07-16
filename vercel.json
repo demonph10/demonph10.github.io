@@ -1,11 +1,6 @@
 {
-  "build": {
-    "env": {
-      "RUBY_VERSION": "3.2.0"
-    }
-  },
-  "buildCommand": "bundle install && bundle exec jekyll build",
+  "framework": null,
+  "buildCommand": "echo 'Build is handled by GitHub Actions'",
   "outputDirectory": "_site",
-  "installCommand": "bundle install",
-  "framework": null
+  "installCommand": "echo 'Install is handled by GitHub Actions'"
 } 
