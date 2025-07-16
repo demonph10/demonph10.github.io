@@ -49,3 +49,9 @@
 - `.github/workflows/deploy.yml`: GitHub Actions构建配置
 - `vercel.json`: Vercel静态部署配置
 - `Gemfile`, `.ruby-version`, `.tool-versions`: Ruby 3.1.0版本锁定
+- `_config.yml`: 必须设置正确的url和baseurl确保资源路径正确
+
+## 常见问题及解决方案
+- **静态资源路径错误**: 确保_config.yml中设置了正确的url和baseurl
+- **Vercel部署分支**: 必须连接到gh-pages分支，不是main分支
+- **路径配置**: Jekyll模板使用relative_url过滤器，需要正确的baseurl配置
