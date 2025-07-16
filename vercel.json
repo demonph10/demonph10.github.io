@@ -1,6 +1,10 @@
 {
-  "framework": "jekyll",
-  "buildCommand": "bundle install && bundle exec jekyll build",
-  "outputDirectory": "_site",
-  "installCommand": "bundle install"
+  "framework": null,
+  "buildCommand": "echo 'Static files from GitHub Pages'",
+  "outputDirectory": ".",
+  "installCommand": "echo 'No installation needed'",
+  "github": {
+    "enabled": true,
+    "autoJobCancelation": false
+  }
 } 
