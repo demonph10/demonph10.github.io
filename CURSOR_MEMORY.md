@@ -55,3 +55,8 @@
 - **静态资源路径错误**: 确保_config.yml中设置了正确的url和baseurl
 - **Vercel部署分支**: 必须连接到gh-pages分支，不是main分支
 - **路径配置**: Jekyll模板使用relative_url过滤器，需要正确的baseurl配置
+- **图片路径问题**: 所有图片资源必须使用`{{ "/path/image.png" | relative_url }}`格式，包括：
+  - 头像图片: `{{ author.avatar | relative_url }}`
+  - 侧边栏图片: `{{ s.image | relative_url }}`
+  - 页面内容图片: `{{ "/images/example.png" | relative_url }}`
+  - 不能直接使用`'/images/example.png'`绝对路径

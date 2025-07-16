@@ -38,7 +38,7 @@ If you are interested in my research, please feel free to connect with me!
 
 # 📝 Selected Publications ([full publications](/en/publications/)) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='/images/pgl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='{{ "/images/pgl.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429)
@@ -49,7 +49,7 @@ If you are interested in my research, please feel free to connect with me!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='/images/mgcn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='{{ "/images/mgcn.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://dl.acm.org/doi/abs/10.1145/3581783.3613915)

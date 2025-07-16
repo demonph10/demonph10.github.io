@@ -29,7 +29,7 @@ baidu_site_verification  :  "codeva-zotdSiI9AL" # get baidu_site_verification fr
 # Site Author
 author:
   name             : "Penghang Yu<br/>(余鹏航)"
-  avatar           : "/images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Nanjing University of Posts and Telecommunications"
   location         : "Nanjing, China"
   employer         :
