@@ -43,6 +43,20 @@
             {% endif %}
           </li>
         </ul>
+        
+        <!-- Language Switch Button -->
+        <div class="lang-switch">
+          {% if current_lang == "zh" %}
+            <a href="/en{{ page.url | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
+              中/EN
+            </a>
+          {% else %}
+            <a href="{{ page.url | replace: '/en', '' | replace: '/index.html', '' | replace: '/index', '' }}" class="lang-switch__link">
+              中/EN
+            </a>
+          {% endif %}
+        </div>
+        
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
