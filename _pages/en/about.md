@@ -14,7 +14,7 @@ lang: en
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a third-year direct Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT, 南京邮电大学). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao) (鲍秉坤), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE) (卢官明), [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) (谭智一) from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) (钱胜胜) from the Institute of Automation, Chinese Academy of Sciences (中科院自动化所). Currently, I am interning at 360 AI Research Institute.
+I am a third-year direct Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE), [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) from the Institute of Automation, Chinese Academy of Sciences. Currently, I am interning at 360 AI Research Institute.
 
 To date, I have been honored with the Jiangsu Provincial Merit Student award, China Telecom Scholarship, Jiangsu Puxin Elite Scholarship, and NJUPT Person of the Year award.
 
