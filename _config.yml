@@ -26,6 +26,11 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  "codeva-7MxdhiJBvv" # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+# Homepage SEO Descriptions
+seo:
+  homepage_description_zh: "我是南京邮电大学（NJUPT）的三年级直博生，师从南京邮电大学鲍秉坤教授、卢官明教授、谭智一老师，以及中科院自动化所的钱胜胜研究员。目前在360人工智能研究院实习。我获得了江苏省三好学生、中国电信奖学金、江苏省浦芯精英奖学金、南京邮电大学年度人物等荣誉。我的研究方向为社会计算，包括社会媒体分析和推荐系统。"
+  homepage_description_en: "I am a third-year direct Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT). I am supervised by Bing-Kun Bao, Guanming Lu, Zhiyi Tan from NJUPT, and Shengsheng Qian from the Institute of Automation, Chinese Academy of Sciences. Currently, I am interning at 360 AI Research Institute. To date, I have been honored with the Jiangsu Provincial Merit Student award, China Telecom Scholarship, Jiangsu Puxin Elite Scholarship, and NJUPT Person of the Year award. My research focuses on social computing, including social media analysis and recommender systems."
+
 # Site Author
 author:
   name             : "Penghang Yu<br/>(余鹏航)"

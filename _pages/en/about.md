@@ -26,7 +26,7 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
+## 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is nominated as an AAAI Oral paper. 
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025.
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by TKDD.
@@ -36,7 +36,7 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 Selected Publications ([full publications](/en/publications/)) 
+## 📝 Selected Publications ([full publications](/en/publications/)) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='{{ "/images/pgl.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🏆 Honors and Awards
+## 🏆 Honors and Awards
 - *2024.10* NJUPT Person of the Year award. 
 - *2024.05* Jiangsu Provincial Merit Student award. 
 - *2021.05* Jiangsu Puxin Elite Scholarship. 
@@ -74,7 +74,7 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-educations'></span>
 
-# 📖 Educations
+## 📖 Educations
 - *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications (南京邮电大学). 
 - *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学). 
@@ -83,5 +83,5 @@ If you are interested in my research, please feel free to connect with me!
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 Internships
+## 💻 Internships
 - *2025.04 - 2025.10*, [360 AI Research Institute](https://ailab.360.cn/about.html), Beijing. 

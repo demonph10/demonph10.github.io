@@ -29,7 +29,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 最新动态
+## 🔥 最新动态
 - *2025.01*: &nbsp;🎉🎉 一篇论文入选 AAAI 2025 口头报告（Oral）。
 - *2024.12*: &nbsp;🎉🎉 两篇论文被 AAAI 2025 接收。
 - *2024.03*: &nbsp;🎉🎉 一篇论文被 TKDD 接收。
@@ -39,7 +39,7 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 
-# 📝 代表性科研成果 ([完整论文列表](/publications/)) 
+## 📝 代表性科研成果 ([完整论文列表](/publications/)) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (ORAL)</div><img src='{{ "/images/pgl.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +67,7 @@ redirect_from:
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🏆 荣誉奖项
+## 🏆 荣誉奖项
 - *2024.10* 南京邮电大学年度人物。
 - *2024.05* 江苏省三好学生。
 - *2021.05* 江苏省浦芯精英奖学金。
@@ -77,7 +77,7 @@ redirect_from:
 
 <span class='anchor' id='-educations'></span>
 
-# 📖 教育经历
+## 📖 教育经历
 - *2022.09 - 2027.06 (至今)*, 博士，南京邮电大学。
 - *2018.09 - 2022.06*, 本科，南京邮电大学。
 - *2015.09 - 2018.06*, 中学，华中师范大学第一附属中学。
@@ -86,5 +86,5 @@ redirect_from:
 
 <span class='anchor' id='-internships'></span>
 
-# 💻 实习经历
+## 💻 实习经历
 - *2025.04 - 2025.10*, [360人工智能研究院](https://ailab.360.cn/about.html), 北京。
