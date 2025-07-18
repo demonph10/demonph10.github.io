@@ -13,6 +13,9 @@ lang: en
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# Penghang Yu - Ph.D. Student at NJUPT - Social Computing and Recommender Systems
+{: .visually-hidden}
+
 <span class='anchor' id='about-me'></span>
 I am a third-year direct Ph.D. student at Nanjing University of Posts and Telecommunications (NJUPT). I am supervised by [Bing-Kun Bao](https://www.scholat.com/bkbao), [Guanming Lu](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE), [Zhiyi Tan](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3) from NJUPT, and [Shengsheng Qian](https://people.ucas.ac.cn/~shengshengqian) from the Institute of Automation, Chinese Academy of Sciences. Currently, I am interning at 360 AI Research Institute.
 
@@ -56,7 +59,7 @@ If you are interested in my research, please feel free to connect with me!
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**Project**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **Citations: 96**
+[**Project**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **Citations: 99**
 </div>
 </div>
 

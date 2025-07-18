@@ -16,6 +16,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 余鹏航 - 南京邮电大学博士生 - 社会计算与推荐系统研究
+{: .visually-hidden}
+
 <span class='anchor' id='about-me'></span>
 我是南京邮电大学（NJUPT）的三年级直博生，师从南京邮电大学[鲍秉坤](https://www.scholat.com/bkbao)教授、[卢官明](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A2A2DCFE050007F01006EFE)教授、[谭智一](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9bdfc80eeae644a3b917ce6816b458f3)老师，以及中科院自动化所的[钱胜胜](https://people.ucas.ac.cn/~shengshengqian)研究员。目前在360人工智能研究院实习。
 
@@ -59,7 +62,7 @@ redirect_from:
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**项目**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **引用数: 96**
+[**项目**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **引用数: 99**
 </div>
 </div>
 
