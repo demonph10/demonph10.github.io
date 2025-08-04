@@ -9,13 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 # 余鹏航 - 南京邮电大学博士生 - 社会计算与推荐系统研究
 {: .visually-hidden}
 
@@ -62,7 +55,7 @@ redirect_from:
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**项目**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **引用数: 99**
+[**项目**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **引用数: 105**
 </div>
 </div>
 

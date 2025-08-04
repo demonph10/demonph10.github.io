@@ -6,13 +6,6 @@ author_profile: true
 lang: en
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 # Penghang Yu - Ph.D. Student at NJUPT - Social Computing and Recommender Systems
 {: .visually-hidden}
 
@@ -59,7 +52,7 @@ If you are interested in my research, please feel free to connect with me!
 
 **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao.
 
-[**Project**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **Citations: 99**
+[**Project**](https://github.com/demonph10/MGCN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | **Citations: 105**
 </div>
 </div>
 
@@ -78,9 +71,9 @@ If you are interested in my research, please feel free to connect with me!
 <span class='anchor' id='-educations'></span>
 
 ## 📖 Educations
-- *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications (南京邮电大学). 
-- *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications (南京邮电大学). 
-- *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University (华中师范大学第一附属中学). 
+- *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications. 
+- *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications. 
+- *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University. 
 
 &nbsp;
 
