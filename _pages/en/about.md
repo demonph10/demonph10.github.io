@@ -71,6 +71,7 @@ If you are interested in my research, please feel free to connect with me!
 <span class='anchor' id='-educations'></span>
 
 ## 📖 Educations
+- *2024.09 - 2027.06 (now)*, Ph.D., Institute of Automation, Chinese Academy of Sciences (Joint Training).
 - *2022.09 - 2027.06 (now)*, Ph.D., Nanjing University of Posts and Telecommunications. 
 - *2018.09 - 2022.06*, Bachelor, Nanjing University of Posts and Telecommunications. 
 - *2015.09 - 2018.06*, NO.1 Middle School affiliated to Central China Normal University. 
