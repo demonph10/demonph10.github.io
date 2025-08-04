@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 科研成果
 
-- `AAAI 2025 (口头报告)` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. &nbsp;&nbsp;&nbsp;&nbsp;[**代码**](https://github.com/demonph10/PGL)
+- `AAAI 2025 (ORAL)` [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), **Penghang Yu**, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. &nbsp;&nbsp;&nbsp;&nbsp;[**代码**](https://github.com/demonph10/PGL)
 
 - `AAAI 2025` [BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429), Qile Fan&#42;, **Penghang Yu**&#42;, Zhiyi Tan, Bing-Kun Bao, Guanming Lu. (&#42; 共同第一作者) &nbsp;&nbsp;&nbsp;&nbsp;[**代码**](https://github.com/fqldom/BeFA)
 
